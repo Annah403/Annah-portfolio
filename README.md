@@ -1,5 +1,7 @@
 # 💼 Annah Mwanza Portfolio
 
+🌐 **Live Site:** [Click to view portfolio](https://annah403.github.io/Annah-portfolio/)
+
 Welcome to my personal portfolio website – a showcase of my journey as a web developer and Python enthusiast.
 This portfolio highlights my technical skills, educational background, projects, and professional interests in a clean and responsive design.
 
